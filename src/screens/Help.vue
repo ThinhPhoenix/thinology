@@ -1,5 +1,5 @@
 <script setup>
-
+    document.title="Help"
 </script>
 
 <template>

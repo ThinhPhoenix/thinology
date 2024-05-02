@@ -1,5 +1,5 @@
 <script setup>
-document.title="Thinology - Discover"
+document.title="Thinology"
 const currentPath = window.location.pathname;
 const pathToHide = "/cookyourfone";
 
