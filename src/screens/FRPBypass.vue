@@ -333,7 +333,9 @@ if (currentPath === pathToHide) {
   <footer>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <img src="/thinology-title.svg" />
+        <router-link to="/">
+          <img src="/thinology-title.svg" />
+        </router-link>
         <p>
           Developed with passion and dedication by yours truly. Thank you for
           using the products of <a href="" style="color: whitesmoke">mine</a>.
