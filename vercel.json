@@ -15,10 +15,6 @@
         {
             "src": "/cookyourfone",
             "dest": "/"
-        },
-        {
-            "src": "/sitemap.xml",
-            "dest": "../sitemap.xml"
         }
     ]
 }
