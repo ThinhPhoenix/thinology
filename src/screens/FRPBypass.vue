@@ -325,12 +325,12 @@ const homelaucher = {
   <footer>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <router-link to="/">
+        <a href="/">
           <img src="/thinology-title.svg" />
-        </router-link>
+        </a>
         <p>
           Developed with passion and dedication by yours truly. Thank you for
-          using the products of <a href="" style="color: whitesmoke">mine</a>.
+          using the products of <a href="/help" style="color: whitesmoke">mine</a>.
         </p>
         <p>Currently v1.0.1.</p>
       </div>
