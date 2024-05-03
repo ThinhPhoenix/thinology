@@ -3,7 +3,7 @@
         <router-link to="/">Discover</router-link>
         <router-link to="/about">About</router-link>
         <router-link to="/help">Help</router-link>
-        <router-link to="/cookyourfone">FRPBypass</router-link>
+        <a href="/cookyourfone" target="_blank">FRPBypass</a>
     </nav>
 </template>
 
