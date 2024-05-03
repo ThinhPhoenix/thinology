@@ -330,7 +330,7 @@ const homelaucher = {
         </a>
         <p>
           Developed with passion and dedication by yours truly. Thank you for
-          using the products of <a href="/help" style="color: whitesmoke">mine</a>.
+          using the products of <a href="/about" style="color: whitesmoke">mine</a>.
         </p>
         <p>Currently v1.0.1.</p>
       </div>
